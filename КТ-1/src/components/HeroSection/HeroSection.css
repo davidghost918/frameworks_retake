@@ -1,0 +1,37 @@
+.hero-section {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #F4F9E2;
+}
+  
+.hero-section__content {
+  flex: 1 1 400px;
+  padding-left: 179px;
+  margin-top: 221px;
+}
+
+.hero-section__content h1 {
+  color: #22356F;
+  font-family: ABeeZee;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 48px;
+  line-height: 112.00000000000001%;
+}
+
+.hero-section__content p {
+  color: #22356F;
+  font-family: ABeeZee;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 177%;
+  letter-spacing: 0%;
+  width: 602px;
+}
+
+.hero-section__image img {
+  margin-top: 141px;
+  margin-bottom: 48px;
+  width: 543px;
+  height: 533px;
+}

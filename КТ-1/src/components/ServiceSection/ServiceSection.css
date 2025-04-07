@@ -1,0 +1,43 @@
+.services-section {
+  background-color: #f0f0f0;
+}
+
+.services-section__container {
+  display: flex;
+  justify-content: center;
+}
+
+.services-section__card {
+  width: 480px;
+  height: 480px;
+  padding: 20px;
+  background-color: white;
+}
+
+.dark {
+  background-color: #22356F;
+}
+
+.blue {
+  background-color: #0052C1;
+}
+
+.green {
+  background-color: #76B58B;   
+}
+
+.services-section__card hr {
+  margin-top: 96px;
+  width: 340px;
+}
+
+.services-section__card h3 {
+  color: #FFFFFF;
+  font-family: ABeeZee;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 106%;
+  margin-left: 70px;
+  width: 264px;
+}

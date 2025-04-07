@@ -1,0 +1,43 @@
+.rental-section {
+  display: flex;
+  gap: 64px;
+  background-color: #ffffff;
+}
+
+.rental-section__text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 49px;
+  margin-right: 57px;
+}
+
+.rental-section__text h2 {
+  font-family: ABeeZee;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 36px;
+  line-height: 77%;
+  color: #22356F;
+  margin: 0;
+}
+
+.rental-section__description {
+  font-family: ABeeZee;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 36px;
+  line-height: 148%;
+  color: #22356F;
+  margin: 0;
+}
+
+.rental-section__image {
+  display: flex;
+}
+
+.rental-section__image img {
+  width: 637px;
+  height: 800px;
+}
+  
